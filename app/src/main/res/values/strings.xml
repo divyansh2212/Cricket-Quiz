@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="intro">Welcome to Cricket Quiz!</string>
+    <string name="logo">Cricketlogo</string>
+</resources>
